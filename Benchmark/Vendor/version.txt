@@ -1,2 +1,2 @@
-PINCache: 3.0.1 Beta 5
-SQLite: 3.19.03.00
+PINCache: 3.0.1 Beta 5 update:3.0.1 Beta 8
+SQLite: 3.19.03.00   update:3.30.1
